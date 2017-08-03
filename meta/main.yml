@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: net2grid
+  description: CentOS configuration for Packer
+  company: "NET2GRID"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.8
+  platforms:
+    - name: EL
+      versions:
+      - 6
+      - 7
+  galaxy_tags:
+    - cloud
+    - system
+    - packaging
+    - development
